@@ -1,0 +1,15 @@
+h1, p{
+    padding: 0 20px 0 20px;
+}
+#zombie {
+    color: darkkhaki;
+}
+#pirate {
+    color: aqua;
+}
+#bacon {
+    color: indianred;
+}
+#cheese{
+    color: yellow;
+}
